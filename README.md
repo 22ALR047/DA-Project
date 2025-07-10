@@ -54,5 +54,9 @@ To build a data-driven dashboard that helps analyze:
 
 ---
 
+## Screenshots or Demo
+
+https://github.com/22ALR047/DA-Project/blob/main/Dashboard%20Screenshot.png
+
 > 📌 This project demonstrates the power of data visualization in uncovering strategic insights across entertainment platforms. Ideal for business analysis, user engagement research, and media analytics.
 
