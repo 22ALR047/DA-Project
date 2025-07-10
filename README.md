@@ -54,7 +54,7 @@ To build a data-driven dashboard that helps analyze:
 
 ---
 
-## Screenshots or Demo
+## 🖼️ Screenshots: Dashboard Screenshot
 
 https://github.com/22ALR047/DA-Project/blob/main/Dashboard%20Screenshot.png
 
